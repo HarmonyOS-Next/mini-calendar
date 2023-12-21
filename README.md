@@ -47,3 +47,9 @@ import { vp2vp } from '@ohmos/calendar'
 Text()
   .width(vp2vp(100))
 ```
+
+## 仓库
+
+https://github.com/HarmonyOS-Next/mini-calendar
+
+欢迎提 issue 

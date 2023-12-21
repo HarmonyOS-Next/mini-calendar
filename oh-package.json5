@@ -9,6 +9,7 @@
   },
   "license": "Apache License 2.0",
   "repository": "https://github.com/HarmonyOS-Next/mini-calendar",
+  "homepage": "https://github.com/HarmonyOS-Next/mini-calendar",
   "dependencies": {
     "dayjs": "^1.11.7"
   }
