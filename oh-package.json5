@@ -1,0 +1,15 @@
+{
+  "name": "@ohmos/calendar",
+  "version": "1.0.0",
+  "description": "a mini calendar component and vp2vp util function",
+  "main": "index.ets",
+  "author": {
+    "name": 'zhousg',
+    "email": "zhousg1007@qq.com"
+  },
+  "license": "Apache License 2.0",
+  "repository": "https://github.com/HarmonyOS-Next/mini-calendar",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}

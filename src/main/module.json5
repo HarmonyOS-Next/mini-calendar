@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "miniCalendar",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
